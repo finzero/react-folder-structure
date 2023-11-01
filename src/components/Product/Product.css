@@ -1,0 +1,25 @@
+.wrapper {
+  border: 1px solid #efefef;
+  border-radius: 1em;
+  width: 240px;
+  height: 340px;
+  overflow: hidden;
+  margin: 5px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.product-img {
+  width: 240px;
+  height: 240px;
+}
+
+.product-info {
+  font-size: 12px;
+  padding: 10px;
+}
+
+.product-price-btn {
+  font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+}
